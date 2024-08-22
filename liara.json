@@ -1,0 +1,9 @@
+{
+    "disks": [
+        {
+            "name": "data",
+            "mountTo": "storage/app"
+        }
+    ]
+
+}
